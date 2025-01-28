@@ -1,7 +1,16 @@
 # Client-Server-Development
 
-Project One located in M5 <br>
-Project Two located in M7
+Project One - Anatomy of a README - located in M5 <br>
+Project Two located in M7<br><br>
+
+M1/ Intro to MongoDB<br>
+M2/ CRUD in MongoDB<br>
+M3/ Database Indexing and Authentication<br>
+M4/ Anatomy of a README, Create and Read in Python<br>
+M5/ Client Side Authentication<br>
+M6/ Dashboard<br>
+M7/ Project Two and Project Two README<br>
+M8/ Aggregation Pipeline<br>
 
 ## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
