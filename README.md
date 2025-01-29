@@ -1,16 +1,29 @@
 # Client-Server-Development
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+Pandas	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+# Hello, and welcome to the Client/Server Development Repository of my Academic Projects🖐️
+
+Applied database systems concepts to develop a client/server application that interfaces client-side code with databases. (NoSQL – MongoDB, Python, CRUD operations).
+
+# 📖 Table of Contents
+
 Project One - Anatomy of a README - located in M5 <br>
 Project Two located in M7<br><br>
 
-M1/ Intro to MongoDB<br>
-M2/ CRUD in MongoDB<br>
-M3/ Database Indexing and Authentication<br>
-M4/ Anatomy of a README, Create and Read in Python<br>
-M5/ Client Side Authentication<br>
-M6/ Dashboard<br>
-M7/ Project Two and Project Two README<br>
-M8/ Aggregation Pipeline<br>
+> 📌 M1/ Intro to MongoDB 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M1)<br>
+📌 M2/ CRUD in MongoDB 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M2)<br>
+📌 M3/ Database Indexing and Authentication 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M3)<br>
+📌 M4/ Anatomy of a README, Create and Read in Python 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M4)<br>
+📌 M5/ Client Side Authentication 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M5)<br>
+📌 M6/ Dashboard 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M6)<br>
+📌 M7/ Project Two and Project Two README 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M7)<br>
+📌 M8/ Aggregation Pipeline 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M8)<br>
 
 ## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
