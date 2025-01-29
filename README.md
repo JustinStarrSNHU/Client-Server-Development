@@ -20,7 +20,7 @@ Project Two located in M7<br><br>
 📌 M2/ CRUD in MongoDB 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M2)<br>
 📌 M3/ Database Indexing and Authentication 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M3)<br>
 📌 M4/ Anatomy of a README, Create and Read in Python 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M4)<br>
-📌 M5/ Client Side Authentication 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M5)<br>
+📌 M5/ Project One: Anatomy of a Readme and Client Side Authentication 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M5)<br>
 📌 M6/ Dashboard 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M6)<br>
 📌 M7/ Project Two and Project Two README 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M7)<br>
 📌 M8/ Aggregation Pipeline 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Client-Server-Development/tree/main/M8)<br>
